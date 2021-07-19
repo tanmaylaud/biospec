@@ -1,6 +1,6 @@
 # biospec
 
-![Link to paper](https://drive.google.com/file/d/1X6mov_R-5lB5Gul8oKa-RBbyVceJGmTn/view?usp=sharing)
+[Link to paper](https://drive.google.com/file/d/1X6mov_R-5lB5Gul8oKa-RBbyVceJGmTn/view?usp=sharing)
 
 ## Abstract
 In this project, we experimented with deep learning networks (like the Siamese Network) to learn novel dense and compressed fixed-size representations of peptide mass spectra. We then analyze these representations qualitatively and quantitatively to gain insights into what is being learnt. We examine the results and try to provide understanding of how learning a good embedding of the spectrum can help us with various downstream tasks along with a substantial reduction in memory requirements (our embeddings are only 256 dimensional). In this project, we also compare and contrast the results of the embeddings with that of the raw spectral information using measures such as Cosine Similarity.
